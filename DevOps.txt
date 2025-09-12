@@ -1,0 +1,69 @@
+DevOps Project Documentation
+============================
+
+Project: First-DO-Project
+Created: 2025-09-12
+
+Overview
+--------
+This is a DevOps project repository for implementing continuous integration, 
+continuous delivery, and infrastructure automation practices.
+
+Key DevOps Principles
+----------------------
+1. Continuous Integration (CI)
+2. Continuous Delivery (CD)
+3. Infrastructure as Code (IaC)
+4. Monitoring and Logging
+5. Collaboration and Communication
+
+Project Structure
+-----------------
+- /src         - Source code
+- /tests       - Test files
+- /docs        - Documentation
+- /scripts     - Automation scripts
+- /config      - Configuration files
+- /.github     - GitHub Actions workflows
+- /terraform   - Infrastructure as Code
+- /docker      - Docker configurations
+- /kubernetes  - K8s manifests
+
+Getting Started
+---------------
+1. Clone the repository
+2. Install required dependencies
+3. Set up development environment
+4. Configure CI/CD pipelines
+5. Deploy to staging environment
+
+Technologies
+------------
+- Version Control: Git
+- CI/CD: GitHub Actions / Jenkins
+- Containerization: Docker
+- Orchestration: Kubernetes
+- IaC: Terraform
+- Cloud: AWS / Azure / GCP
+- Monitoring: Prometheus / Grafana
+
+Best Practices
+--------------
+- Commit early and often
+- Write meaningful commit messages
+- Automate everything possible
+- Test before deploying
+- Monitor all systems
+- Document all processes
+- Security first approach
+
+Contact
+-------
+Repository: https://github.com/SyedAliHamzaBukhari/First-DO-Project.git
+
+Notes
+-----
+1. Steps
+Plan > Code > Build > Test > Release > Deploy > Operate > Monitor
+
+2. 
