@@ -21,5 +21,5 @@ jobs:
         uses: npm install
   
       - name: Run tests
-        uses: npm tests
+        uses: npm test
       
